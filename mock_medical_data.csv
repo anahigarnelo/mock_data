@@ -1,0 +1,101 @@
+patient_id,name,age,condition,treatment,bmi,blood_pressure,glucose_level,family_id
+P001,Sarah Jones,48,Depression,Medication,25.5,98/64,119,F01
+P002,John Brown,56,Migraine,Lifestyle Changes,20.3,167/90,118,F02
+P003,Jane Smith,25,Diabetes,Lifestyle Changes,29.0,120/84,126,F03
+P004,Jessica Smith,50,Depression,Counseling,34.5,90/69,134,F03
+P005,Sarah Wilson,20,Migraine,Counseling,19.8,144/89,166,F04
+P006,Robert Brown,67,Migraine,Therapy,30.5,146/65,116,F02
+P007,David Wilson,22,Anxiety,Therapy,32.7,93/61,192,F04
+P008,David Miller,66,Anxiety,Surgery,23.7,141/77,150,
+P009,Robert Miller,54,Insomnia,Therapy,30.3,142/83,177,
+P010,Jane Davis,51,Diabetes,Rehabilitation,30.4,165/76,130,
+P011,Michael Jones,73,Asthma,Lifestyle Changes,34.1,157/78,185,F01
+P012,John Miller,36,Hypertension,Therapy,26.1,117/91,185,
+P013,John Davis,71,Diabetes,Lifestyle Changes,32.9,125/72,160,
+P014,John Wilson,40,Arthritis,Rehabilitation,20.0,163/76,189,F04
+P015,Emily Wilson,51,Arthritis,Counseling,22.6,113/77,104,F04
+P016,Jessica Miller,42,Migraine,Rehabilitation,22.1,166/98,102,
+P017,John Davis,35,Migraine,Lifestyle Changes,31.2,132/60,198,
+P018,Michael Smith,66,Depression,Rehabilitation,19.5,109/74,196,F03
+P019,John Jones,31,Migraine,Therapy,19.4,133/79,186,F01
+P020,Jane Jones,76,Diabetes,Surgery,34.8,149/67,148,F01
+P021,Robert Johnson,66,Migraine,Surgery,18.8,126/83,130,
+P022,Robert Davis,20,Depression,Counseling,33.1,153/100,127,
+P023,David Davis,69,Asthma,Medication,33.5,169/74,137,
+P024,Sarah Wilson,69,Migraine,Rehabilitation,28.5,149/91,72,F04
+P025,Jane Davis,44,Hypertension,Surgery,34.3,101/61,110,
+P026,Robert Brown,46,Asthma,Surgery,25.8,163/67,179,F02
+P027,John Smith,47,Asthma,Medication,34.7,176/93,85,F03
+P028,Jessica Johnson,25,Arthritis,Rehabilitation,20.7,132/82,79,
+P029,Jessica Wilson,63,Migraine,Surgery,22.8,108/89,119,F04
+P030,Sarah Miller,30,Anxiety,Rehabilitation,35.0,138/65,126,
+P031,Jane Miller,75,Migraine,Therapy,28.9,147/73,158,
+P032,Emily Williams,18,Anxiety,Lifestyle Changes,31.8,178/80,111,
+P033,David Smith,52,Diabetes,Surgery,22.4,94/66,159,F03
+P034,Michael Johnson,55,Anxiety,Surgery,30.1,100/71,79,
+P035,Jessica Brown,80,Hypertension,Counseling,33.7,107/66,132,F02
+P036,John Williams,23,Diabetes,Surgery,18.5,167/67,162,
+P037,Emily Davis,38,Insomnia,Lifestyle Changes,32.0,145/84,129,
+P038,Emily Williams,39,Depression,Counseling,34.3,119/81,174,
+P039,Michael Jones,23,Asthma,Lifestyle Changes,33.0,157/93,174,F01
+P040,Jessica Davis,56,Migraine,Therapy,31.4,126/99,85,
+P041,John Johnson,47,Diabetes,Therapy,21.7,161/65,77,
+P042,David Johnson,80,Migraine,Therapy,18.6,179/73,189,
+P043,Jessica Johnson,68,Anxiety,Surgery,23.8,133/100,96,
+P044,Michael Wilson,30,Hypertension,Surgery,25.8,105/79,87,F04
+P045,Michael Williams,25,Diabetes,Medication,20.9,171/94,106,
+P046,Emily Miller,79,Arthritis,Counseling,30.8,153/94,119,
+P047,Sarah Jones,78,Migraine,Medication,31.2,123/94,157,F01
+P048,Sarah Wilson,78,Insomnia,Medication,29.5,149/65,123,F04
+P049,Jessica Williams,48,Asthma,Surgery,32.9,126/99,158,
+P050,Michael Johnson,34,Asthma,Medication,19.6,146/90,139,
+P051,Emily Wilson,57,Asthma,Counseling,19.5,94/74,74,F04
+P052,Michael Miller,66,Hypertension,Rehabilitation,31.3,166/67,141,
+P053,Emily Wilson,36,Arthritis,Rehabilitation,21.5,100/100,149,F04
+P054,Jessica Brown,21,Insomnia,Rehabilitation,28.8,111/86,89,F02
+P055,John Williams,80,Migraine,Therapy,25.6,110/99,150,
+P056,Sarah Jones,21,Diabetes,Surgery,26.8,126/70,126,F01
+P057,Robert Davis,19,Asthma,Counseling,23.7,159/87,152,
+P058,Sarah Johnson,34,Diabetes,Surgery,20.5,116/88,111,
+P059,Jane Brown,59,Asthma,Counseling,34.6,127/97,152,F02
+P060,Jane Wilson,53,Diabetes,Medication,34.6,120/95,183,F04
+P061,Emily Wilson,48,Arthritis,Therapy,30.1,152/63,152,F04
+P062,Emily Smith,28,Arthritis,Surgery,27.9,174/86,70,F03
+P063,Sarah Davis,40,Depression,Therapy,24.3,154/69,173,
+P064,Sarah Davis,32,Migraine,Medication,32.8,137/85,72,
+P065,Emily Davis,27,Anxiety,Counseling,33.0,106/70,190,
+P066,Sarah Brown,45,Hypertension,Therapy,30.2,99/100,141,F02
+P067,Jessica Miller,32,Insomnia,Lifestyle Changes,29.0,160/89,200,
+P068,Robert Davis,24,Depression,Rehabilitation,25.1,141/88,135,
+P069,Robert Brown,22,Arthritis,Lifestyle Changes,32.4,174/85,83,F02
+P070,Michael Johnson,69,Migraine,Lifestyle Changes,32.6,120/99,76,
+P071,Robert Jones,63,Migraine,Medication,27.4,162/96,92,F01
+P072,Jessica Smith,59,Anxiety,Surgery,26.9,179/75,104,F03
+P073,Emily Miller,60,Hypertension,Counseling,34.3,97/69,191,
+P074,Jessica Brown,49,Hypertension,Counseling,23.0,162/69,156,F02
+P075,Emily Davis,78,Insomnia,Surgery,26.9,90/99,190,
+P076,David Miller,26,Asthma,Lifestyle Changes,33.6,150/66,182,
+P077,Emily Jones,44,Diabetes,Rehabilitation,34.7,135/62,126,F01
+P078,Sarah Williams,51,Diabetes,Therapy,26.9,155/72,99,
+P079,Sarah Wilson,78,Depression,Lifestyle Changes,25.3,104/96,117,F04
+P080,John Smith,43,Diabetes,Counseling,33.9,163/96,154,F03
+P081,Jane Wilson,25,Insomnia,Lifestyle Changes,21.9,119/70,101,F04
+P082,David Davis,38,Diabetes,Surgery,34.7,93/70,128,
+P083,Sarah Davis,52,Anxiety,Surgery,23.1,94/61,120,
+P084,Michael Davis,19,Depression,Lifestyle Changes,25.2,155/84,89,
+P085,Robert Brown,61,Asthma,Therapy,20.1,153/99,98,F02
+P086,Jane Brown,37,Depression,Counseling,30.9,148/94,102,F02
+P087,Michael Williams,33,Arthritis,Lifestyle Changes,22.6,120/64,113,
+P088,Robert Williams,61,Arthritis,Lifestyle Changes,33.0,130/71,168,
+P089,Jane Jones,20,Anxiety,Counseling,25.5,140/100,193,F01
+P090,John Smith,50,Hypertension,Medication,27.9,166/86,130,F03
+P091,Sarah Williams,70,Diabetes,Therapy,32.3,131/81,95,
+P092,Sarah Smith,62,Asthma,Therapy,28.9,171/63,85,F03
+P093,John Davis,61,Arthritis,Surgery,27.1,141/94,121,
+P094,David Wilson,39,Asthma,Surgery,28.4,128/97,191,F04
+P095,David Williams,56,Diabetes,Medication,23.5,98/93,149,
+P096,John Smith,71,Insomnia,Medication,34.0,159/96,167,F03
+P097,David Miller,27,Hypertension,Therapy,26.5,135/81,133,
+P098,John Miller,43,Insomnia,Medication,31.3,176/72,79,
+P099,Sarah Brown,27,Insomnia,Therapy,19.8,143/89,122,F02
+P100,Jessica Brown,71,Arthritis,Surgery,22.6,159/70,166,F02
